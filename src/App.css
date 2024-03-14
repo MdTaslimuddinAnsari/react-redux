@@ -65,3 +65,19 @@
   outline: none;
   box-shadow: #282c34 0px 1px 5px;
 }
+
+
+.total-items{
+  position: absolute;
+  font-size: 20px;
+  top: 15px;
+  /* margin-left: -15px; */
+  color: red;
+  font-weight: 700;
+  border-radius: 20px;
+  margin-left: -10px;
+  width: 25px;
+  height: 25px;
+  background-color: aliceblue;
+  align-self: center;
+}
